@@ -2,6 +2,6 @@
 
 Made with Unity 2019.4.3f1 (LTS)
 
-Fast-paced multiplayer arcade shooter in development. Simplified flight model. Upgrade system and account-based score saving/leaderboards.
+Fast-paced multiplayer arcade shooter in development. Simplified flight model. Upgrade system and account-based score saving/leaderboards (Google Play Games connectivity).
 
 Details TBA
